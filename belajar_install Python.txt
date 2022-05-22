@@ -1,0 +1,10 @@
+1 download python  install
+2 download vscode   install = code.visualstudio.com
+3 masuk CMD install selenium (pip install selenium) pip install undetected-chromedriver, pip install pyautogui, pip install 2captcha-python
+4 cek selenium (pip list)
+6 download chrome web driver, cek versi klik pojok kanan atas klik seting klik About chrome
+7 extract dan simpan folder di :C 
+8 cari Edit the system environment and variables 
+9 lihat System variable cari bagian Path klik dua kali dan klik NEW
+10 copy alamat chrome webdriver tadi :C dan paste klik OK
+11masuk VSCODE buka folder buat file
